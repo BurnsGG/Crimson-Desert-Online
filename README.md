@@ -10,7 +10,7 @@
 
 ## What is CrimsonZero?
 
-Crimson Desert was first revealed as an online game. That online part never came. CrimsonZero is a community project to build a new kind of online experience for it, in the spirit of what FiveM did for GTA V.
+Crimson Desert was first revealed as an online game. That online part never came. CrimsonZero is a community project to build a new kind of online experience for it.
 
 - **Persistent servers.** One world that lives on: your character, your gear, your money and the world itself are kept by the server, not by your local save.
 - **A shared world.** Meet, trade, fight and team up with other players.
