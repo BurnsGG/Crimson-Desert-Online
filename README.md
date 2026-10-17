@@ -32,3 +32,6 @@ Pywel is one of the most beautiful worlds ever made, and right now you explore i
 ## Disclaimer
 
 CrimsonZero is a free, non-commercial fan project. It is **not affiliated with, endorsed by or connected to Pearl Abyss**. Crimson Desert and all related names and assets belong to their owners. This project does not distribute any game files.
+
+## WIP
+<img width="2134" height="1681" alt="image" src="https://github.com/user-attachments/assets/f787681a-0241-4f85-8409-a24b2b741c06" />
